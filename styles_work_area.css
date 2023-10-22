@@ -34,6 +34,8 @@ LAS 3 COLUMNAS PRINCIPALES*/
 
 /*AREA DE TRABAJO CON LA IMÁGEN FLEX-BOX*/
 .workPlan {
+    background-image: url(img/lineas2.jpg);
+    background-size: 1000px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,8 +83,6 @@ LAS 3 COLUMNAS PRINCIPALES*/
 
 }
 
-
-
 /*DISEÑO DEL BOTÓN Y DE LA IMÁGEN*/
 .btn {
     float: right;
@@ -91,9 +91,9 @@ LAS 3 COLUMNAS PRINCIPALES*/
 }
 
 img {
-    width: 380px;
+    width: 350px;
 }
 
 .material-symbols-outlined {
-    font-size: 20px;
+    font-size: 18px;
 }
